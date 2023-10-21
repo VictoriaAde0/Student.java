@@ -32,7 +32,7 @@ public class Main {
         System.out.println("Your full name is"+  student.getName());
         System.out.println("Your department is"+  student.getDepartment());
         System.out.println("Your level is" +  student.getLevel());
-        System.out.println("Your age is" +  student.getAge());
+        System.out.println("Your age is" +  student.getAge() + "years old");
 
 
 
